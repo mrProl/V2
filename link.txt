@@ -11,5 +11,4 @@ vmess://eyJhZGQiOiJkb25nMS5odHZ2aXJ1LnRvcCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiaG9zdCI6
 vmess://eyJhZGQiOiJzcGVlZC5jbG91ZGZsYXJlLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiaG9zdCI6Inc0NDIzLmJhaWR1MmIuY2YiLCJpZCI6ImMzZDZiZWQwLTVjNTYtNGU4ZC1hZjdiLWU2OGM1NzcyNGMxNSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiNDQzIiwicHMiOiLnvo7lm70gQ2xvdWRGbGFyZeiKgueCuSIsInNjeSI6ImF1dG8iLCJzbmkiOiJ3NDQyMy5iYWlkdTJiLmNmIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
 vmess://eyJhZGQiOiI0My4xNjMuMjEzLjgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImhvc3QiOiIiLCJpZCI6IjNkODFlNmZiLWM3ZjAtNDc5MS1hZjJlLTgyYzkzZDE0OTQ4MyIsIm5ldCI6IndzIiwicGF0aCI6Ii9jY3R2MTMvaGQubTN1OCIsInBvcnQiOiIxMjA5IiwicHMiOiLml6XmnKwgVjJDUk9TUy5DT00iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
 
-آموزش:کل پیام رو کپی کنید بعد علامت + در ویتوری ان جی(v2ray NG) رو بزنید و بعد هم گذینه دوم
 هر ۴۸ ساعت یک بار ربات آبدیت میشه 🤖
