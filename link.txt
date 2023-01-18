@@ -3,6 +3,7 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPUElHSFNlSVpWQlM3aERY@grampfzin.uksouth.cloudapp.azure.com:443#%40FreeV2rayLink_bot
 vless://7e101753-e7a4-45c4-8006-7119f0aa9a22@45.64.22.6:443?path=%2Fpublic&security=tls&encryption=none&host=static.usmc.uk&type=ws&sni=static.usmc.uk#%40FreeV2rayLink_bot
 vless://7e101753-e7a4-45c4-8006-7119f0aa9a22@45.64.22.53:443?path=%2Fpublic&security=tls&encryption=none&host=static.usmc.uk&type=ws&sni=static.usmc.uk#%40FreeV2rayLink_bot
+vless://3dbf8df2-452d-49af-92de-a1789775de9f@v2ray5.v2rayfree2.xyz:443?path=%2Fray&security=tls&encryption=none&type=ws#%40FreeV2rayLink_bot
 
 کانکشنها تست شده روی همراه اول✅
 هر ۴۸ ساعت یک بار ربات آبدیت میشه 🤖
