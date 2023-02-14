@@ -13,6 +13,6 @@ vmess://eyJhZGQiOiJnYi53b2lkZW4ueXVqaTIwMjIuZ3EiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImhv
 vmess://eyJhZGQiOiJjZG5qcy5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImhvc3QiOiJoc3RyMTY3NTUyMDEwNjI3MC5haWRhcHAubGlmZSIsImlkIjoiZWUzMGQzZmYtZGExNC00ZWE4LWJjZDItMDJlOGVlMzY2N2RlIiwibmV0Ijoid3MiLCJwYXRoIjoiL2FpZGFwcC5saWZldndzIiwicG9ydCI6IjQ0MyIsInBzIjoiVG9ieSAyIPCfjoMiLCJzY3kiOiJhdXRvIiwic25pIjoiaHN0cjE2NzU1MjAxMDYyNzAuYWlkYXBwLmxpZmUiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 
 
-♻️ بروزرسانی شده در 1401/11/21
+♻️ بروزرسانی شده در 1401/11/25
 ✅کانکشنها تست شده روی همراه اول
 🤖هر 48 ساعت یک بار ربات آبدیت میشه 
