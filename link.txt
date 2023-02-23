@@ -1,3 +1,7 @@
+trojan://623d6c1ffc2a4f4f8eb7575c45429df5@hk01.shenzhouplus.cf:10009?security=tls&headerType=none&type=tcp#xxx
+trojan://623d6c1ffc2a4f4f8eb7575c45429df5@sg01.shenzhouplus.cf:10009?security=tls&headerType=none&type=tcp#xxx
+trojan://623d6c1ffc2a4f4f8eb7575c45429df5@hk01.shenzhouplus.cf:10007?security=tls&headerType=none&type=tcp#xxx
+
 vmess://eyJhZGQiOiJpNS5hcnNhbGFudjMuc2JzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJpNS5hcnNhbGFudjMuc2JzIiwiaWQiOiJkMjRmY2I1Ni0yNzRjLTQ4OWYtYmRhZC03YTE4ZWI5ZDU5ZWMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwIiwicHMiOiJha2VsaXMg8J+Xoe+4jyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 trojan://cd27884b-c5af-34ec-b75f-8248077818fe@c.mg.us.cat77.cloud:8646?security=tls&headerType=none&type=tcp#akelis+%F0%9F%97%A1%EF%B8%8F+2
 vmess://eyJhZGQiOiJ4bi0tNWJ1dzg1ZS54bi0tZ2hxdzZqa3cwYS5saXZlIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ4bi0tNWJ1dzg1ZS54bi0tZ2hxdzZqa3cwYS5saXZlIiwiaWQiOiI5Y2E0ZTFmYy1kNTY0LTQxM2MtZmExNS1mMTgyMTA5OTk3MGIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjQ0MyIsInBzIjoiYWtlbGlzIPCfl6HvuI8gMyIsInNjeSI6ImF1dG8iLCJzbmkiOiJ4bi0tNWJ1dzg1ZS54bi0tZ2hxdzZqa3cwYS5saXZlIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
@@ -11,6 +15,6 @@ vmess://eyJhZGQiOiJ2MTI1LnRvZGRucy50ayIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJo
 vmess://eyJhZGQiOiJpY29vay5oayIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiMndvaWQud2VpZ29nb2dvLmNmIiwiaWQiOiIzZWIwNWNiNi1kMmUxLTRhMzEtOWY4Mi01MTRjZmE5OGZlMTUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvcmF5P2VkXHUwMDNkMjA0OCIsInBvcnQiOiI4MCIsInBzIjoicXFxIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
 
 
-♻️ بروزرسانی شده در 1401/12/2
+♻️ بروزرسانی شده در 1401/12/4
 ✅کانکشنها تست شده روی همراه اول
 🤖هر 48 ساعت یک بار ربات آبدیت میشه 
