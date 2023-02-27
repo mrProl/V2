@@ -5,7 +5,6 @@ vmess://eyJhZGQiOiJ2NDdhLnRvZGRucy50ayIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJo
 vmess://eyJhZGQiOiIxNS4xNTIuMzEuMTIyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjhmZTQwNDI0LWRlMWEtNDhlNy05YTc4LTI0N2RhZTUzNmNjZSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTYzNDIiLCJwcyI6ItmF2LnYqtin2K8g2YfYs9iq2YUiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiJ2MTI1LnRvZGRucy50ayIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoidjEyNS50b2RkbnMudGsiLCJpZCI6ImEyNTg4MWYzLTk2N2YtMzI2NS1iYzdmLTllNjY4NTdiMDE2YiIsIm5ldCI6IndzIiwicGF0aCI6Ii91c3YxMjVOOTNueiIsInBvcnQiOiI4MCIsInBzIjoi2KrYsduM2KfaqdmIINiv2KfYryDYqNmHINiv2LPYqtmFIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
 
-vmess://eyJhZGQiOiJpY29vay5oayIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiMndvaWQud2VpZ29nb2dvLmNmIiwiaWQiOiIzZWIwNWNiNi1kMmUxLTRhMzEtOWY4Mi01MTRjZmE5OGZlMTUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvcmF5P2VkXHUwMDNkMjA0OCIsInBvcnQiOiI4MCIsInBzIjoic3BhcnRh8J+TryIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiI0Mi4yMjUuMjAuMTgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiY2I3MDAxYzctZTQ5NS00MWFjLWI5NDItZjI1ZjYwNTIzNDE0IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMDAwNSIsInBzIjoic3BhcnRh8J+TryIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 
 vmess://eyJhZGQiOiJ2MTI1LnRvZGRucy50ayIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoidjEyNS50b2RkbnMudGsiLCJpZCI6ImEyNTg4MWYzLTk2N2YtMzI2NS1iYzdmLTllNjY4NTdiMDE2YiIsIm5ldCI6IndzIiwicGF0aCI6Ii91c3YxMjVOOTNueiIsInBvcnQiOiI4MCIsInBzIjoicXFxIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
@@ -18,5 +17,3 @@ vmess://eyJhZGQiOiJpY29vay5oayIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoi
 Real delay all configuration
 رو بزنید تا همرو براتون تست کنه اوناییکه سبز میشه فعالن قطو وصلی هم دارن
 هر دفعه تست بزنید تا فعالا مشخص بشن
-
-🤖هر 48 ساعت یک بار ربات آبدیت میشه 
