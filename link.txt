@@ -10,10 +10,9 @@ vmess://eyJhZGQiOiI0Mi4yMjUuMjAuMTgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9z
 vmess://eyJhZGQiOiJ2MTI1LnRvZGRucy50ayIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoidjEyNS50b2RkbnMudGsiLCJpZCI6ImEyNTg4MWYzLTk2N2YtMzI2NS1iYzdmLTllNjY4NTdiMDE2YiIsIm5ldCI6IndzIiwicGF0aCI6Ii91c3YxMjVOOTNueiIsInBvcnQiOiI4MCIsInBzIjoicXFxIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiJpY29vay5oayIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiMndvaWQud2VpZ29nb2dvLmNmIiwiaWQiOiIzZWIwNWNiNi1kMmUxLTRhMzEtOWY4Mi01MTRjZmE5OGZlMTUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvcmF5P2VkXHUwMDNkMjA0OCIsInBvcnQiOiI4MCIsInBzIjoicXFxIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
 
+✅کانکشنها تست شده روی همراه اول
+⚠️راهنما : بعداز اینکه کل این متنو کپی کردید و وارد (وی تو ری یا ماتسوری) کردید حتما از سه نقطه گذینه
+Real delay all configuration
+رو بزنید تا همرو براتون تست کنه اوناییکه سبز میشه فعالن قطو وصلی هم دارنهر دفعه تست بزنید تا فعالا مشخص بشن
 
 ♻️ بروزرسانی شده در 1401/12/8
-✅کانکشنها تست شده روی همراه اول
-راهنما : بعداز اینکه کل این متنو کپی کردید و وارد (وی تو ری یا ماتسوری) کردید حتما از سه نقطه گذینه
-Real delay all configuration
-رو بزنید تا همرو براتون تست کنه اوناییکه سبز میشه فعالن قطو وصلی هم دارن
-هر دفعه تست بزنید تا فعالا مشخص بشن
